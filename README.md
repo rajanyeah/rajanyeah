@@ -1,8 +1,8 @@
 ## Hi there 👋 im rajanya!
-## I'm currently a 3rd year AIML student😭
-## I love neural networks and everything about them🩷
-## the decision trees i take will never go on a gradient descent🌳💯🗣️
-## call me a llm the way i make really badly thought out puns😢😢
+## Final Year AIML Student
+## just give me an API call
+## the decision trees i take will never go on a gradient descent
+## call me a llm the way i make really badly thought out puns
 ![](https://komarev.com/ghpvc/?username=rajanyeah&color=red)
 
 <h3>When I code, I rely on</h3>
